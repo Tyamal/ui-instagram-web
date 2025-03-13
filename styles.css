@@ -29,3 +29,13 @@ header {
     justify-content: center;
     padding: 0;
 }
+
+.tabs li {
+    margin: 0 15px;
+    cursor: pointer;
+}
+
+.tabs .active {
+    font-weight: bold;
+    border-bottom: 2px solid #000;
+}
