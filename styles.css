@@ -22,3 +22,10 @@ header {
     height: 100px;
     margin-right: 20px;
 }
+
+.tabs {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    padding: 0;
+}
