@@ -50,3 +50,9 @@ header {
     width: 30%;
     margin: 10px 0;
 }
+
+footer {
+    text-align: center;
+    padding: 20px;
+    background-color: #f3f3f3;
+}
