@@ -45,3 +45,8 @@ header {
     justify-content: space-around;
     flex-wrap: wrap;
 }
+
+.story-container img, .feed-container img {
+    width: 30%;
+    margin: 10px 0;
+}
